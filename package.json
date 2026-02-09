@@ -25,7 +25,8 @@
     "pixi-filters": "^6.1.2",
     "pixi.js": "8.9.1",
     "screenfull": "5.2.0",
-    "seedrandom": "^3.0.5"
+    "seedrandom": "^3.0.5",
+    "stats.js": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",

@@ -2,6 +2,7 @@ import common from "./common";
 import PreloaderScene from "./game/scenes/PreloaderScene";
 import SceneManager from "./game/SceneManager";
 import {Resolver, BaseTexture, MIPMAP_MODES, Ticker} from 'pixi.js';
+import Stats from "stats.js/src/Stats";
 
 /**
  * @class
@@ -30,6 +31,10 @@ export default class App {
     }
 
     init() {
+        this._stats = new Stats();
+        this._stats.showPanel(0); // 0: fps, 1: ms, 2: mb, 3+: custom
+        document.body.appendChild(this._stats.dom);
+
         window.addEventListener('blur', function () {
             ENG.audio.muteMusic(true);
         }, false);
@@ -120,11 +125,15 @@ export default class App {
     }
 
     update(ticker) {
+        this._stats.begin();
+
         const deltaTime = ticker.deltaTime;
         TWEEN.update(); // update tween engine
         ENG.gameTime.update(deltaTime); // update delta calc
         this._sceneStack && this._sceneStack.update(ENG.gameTime.dt); // update scenes
         ENG.view.update(); // render
+
+        this._stats.end();
     }
 
     resize() {
