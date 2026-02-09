@@ -23,7 +23,7 @@ export default class TitleScene extends Scene {
         this.addChild(this._cardsButton);
 
         const style = {
-            fontFamily: "archivo_blackregular",
+            fontFamily: "arial",
             fontSize: 52,
             fill: 0xfedd9c,
             fontWeight: "bold",

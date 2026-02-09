@@ -1,7 +1,7 @@
 {
-  "name": "namethat",
+  "name": "softgames",
   "version": "0.0.1",
-  "description": "quiz",
+  "description": "assignment",
   "main": "./src/index.js",
   "bin": {
     "bundle": "bundle.js"

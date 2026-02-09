@@ -7,7 +7,8 @@ export default class PreloaderScene extends Scene {
         super();
 
         // hack to preload fonts // TODO - can actually load webfonts using new Assets class now
-        this.addChild(new Text("", {fontFamily: "archivo_blackregular"}))
+        let style = {fontFamily: "archivo_blackregular"}
+        this.addChild(new Text({text: "", style}))
 
         this._logo = new Sprite(ENG.asset.texture("logo_small"));
         this._logo.anchor.set(0.5);
