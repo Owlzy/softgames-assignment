@@ -1,0 +1,29 @@
+<html>
+<header><title>Garibaldi Engine MKI</title></header>
+<link href=default.css rel=stylesheet>
+<meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimal-ui">
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        overscroll-behavior-y: contain;
+        background-color: white; /* Set the background */
+    }
+</style>
+<body>
+<div class="canvas-container">
+    <canvas id="view"></canvas>
+</div>
+<div id="rotate-screen-overlay"
+     style="visibility: hidden; z-index: -1; pointer-events: none; position: fixed; inset: 0; display: flex; justify-content: center; align-items: center; background: #000;">
+    <img src="assets/textures/rotate-device.png"
+         alt="Rotate your device"
+         style="width: 100vw; height: 100vh; object-fit: cover; display: block;" />
+</div>
+
+<script src="bin/bundle.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+{
+  "title": {
+    "en": "Easter Egg Hunt",
+    "fr": "",
+    "cn": "寻找复活节彩蛋"
+  },
+  "results": {
+    "en": "Congratulations, you found all the eggs! Here is special code “happyeaster”",
+    "fr": "",
+    "cn": "恭喜你，你找到了所有的蛋！"
+  },
+  "fail": {
+    "en": "Oh no, you ran out of time! Better luck next time.",
+    "fr": "",
+    "cn": ""
+  }
+}

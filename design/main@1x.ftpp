@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "D:\\Work\\git\\softgames-assignment\\assets\\textures",
+  "images": [
+    {
+      "name": "back_blue.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/back_blue.png",
+      "folder": ""
+    },
+    {
+      "name": "btn-primary-up.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites-word/btn-primary-up.png",
+      "folder": ""
+    },
+    {
+      "name": "btn_back_up.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/btn_back_up.png",
+      "folder": ""
+    },
+    {
+      "name": "btn_next_up.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/btn_next_up.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs10.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs10.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs2.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs2.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs3.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs3.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs4.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs4.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs5.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs5.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs6.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs6.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs7.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs7.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs8.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs8.png",
+      "folder": ""
+    },
+    {
+      "name": "clubs9.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubs9.png",
+      "folder": ""
+    },
+    {
+      "name": "clubsa.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubsa.png",
+      "folder": ""
+    },
+    {
+      "name": "clubsj.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubsj.png",
+      "folder": ""
+    },
+    {
+      "name": "clubsk.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubsk.png",
+      "folder": ""
+    },
+    {
+      "name": "clubsq.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/clubsq.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds10.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds10.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds2.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds2.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds3.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds3.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds4.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds4.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds5.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds5.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds6.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds6.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds7.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds7.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds8.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds8.png",
+      "folder": ""
+    },
+    {
+      "name": "diamonds9.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamonds9.png",
+      "folder": ""
+    },
+    {
+      "name": "diamondsa.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamondsa.png",
+      "folder": ""
+    },
+    {
+      "name": "diamondsj.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamondsj.png",
+      "folder": ""
+    },
+    {
+      "name": "diamondsk.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamondsk.png",
+      "folder": ""
+    },
+    {
+      "name": "diamondsq.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/diamondsq.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts10.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts10.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts2.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts2.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts3.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts3.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts4.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts4.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts5.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts5.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts6.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts6.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts7.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts7.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts8.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts8.png",
+      "folder": ""
+    },
+    {
+      "name": "hearts9.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/hearts9.png",
+      "folder": ""
+    },
+    {
+      "name": "heartsa.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/heartsa.png",
+      "folder": ""
+    },
+    {
+      "name": "heartsj.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/heartsj.png",
+      "folder": ""
+    },
+    {
+      "name": "heartsk.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/heartsk.png",
+      "folder": ""
+    },
+    {
+      "name": "heartsq.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/heartsq.png",
+      "folder": ""
+    },
+    {
+      "name": "icon-cancel.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites-word/icon-cancel.png",
+      "folder": ""
+    },
+    {
+      "name": "icon_back.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/icon_back.png",
+      "folder": ""
+    },
+    {
+      "name": "icon_play.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/icon_play.png",
+      "folder": ""
+    },
+    {
+      "name": "joker.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/joker.png",
+      "folder": ""
+    },
+    {
+      "name": "mask.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/mask.png",
+      "folder": ""
+    },
+    {
+      "name": "nineslice_black.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/nineslice_black.png",
+      "folder": ""
+    },
+    {
+      "name": "nineslice_white.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/nineslice_white.png",
+      "folder": ""
+    },
+    {
+      "name": "particle-fire.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/particle-fire.png",
+      "folder": ""
+    },
+    {
+      "name": "particle-mote.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/particle-mote.png",
+      "folder": ""
+    },
+    {
+      "name": "spades10.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades10.png",
+      "folder": ""
+    },
+    {
+      "name": "spades2.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades2.png",
+      "folder": ""
+    },
+    {
+      "name": "spades3.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades3.png",
+      "folder": ""
+    },
+    {
+      "name": "spades4.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades4.png",
+      "folder": ""
+    },
+    {
+      "name": "spades5.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades5.png",
+      "folder": ""
+    },
+    {
+      "name": "spades6.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades6.png",
+      "folder": ""
+    },
+    {
+      "name": "spades7.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades7.png",
+      "folder": ""
+    },
+    {
+      "name": "spades8.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades8.png",
+      "folder": ""
+    },
+    {
+      "name": "spades9.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spades9.png",
+      "folder": ""
+    },
+    {
+      "name": "spadesa.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spadesa.png",
+      "folder": ""
+    },
+    {
+      "name": "spadesj.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spadesj.png",
+      "folder": ""
+    },
+    {
+      "name": "spadesk.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spadesk.png",
+      "folder": ""
+    },
+    {
+      "name": "spadesq.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/spadesq.png",
+      "folder": ""
+    },
+    {
+      "name": "star_burst.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/star_burst.png",
+      "folder": ""
+    },
+    {
+      "name": "table.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/table.png",
+      "folder": ""
+    },
+    {
+      "name": "white_line.png",
+      "path": "D:/Work/git/softgames-assignment/design/sprites/white_line.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "main@1x",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "pixi.js",
+    "fileName": "pack-result",
+    "savePath": "D:\\Work\\git\\softgames-assignment\\assets\\textures",
+    "width": 2048,
+    "height": 2048,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 2,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "OptimalPacker",
+    "packerMethod": "Automatic"
+  }
+}
