@@ -123,13 +123,13 @@ export default class DialogueScene extends Scene {
 
             // basic left/right alignment
             if (who.position === "right") {
-                const bubbleRightX = ENG.View.V_WIDTH - 280;
+                const bubbleRightX = ENG.Scene.right() - 280;
                 if (avatar) avatar.position.set(bubbleRightX, 0);
 
                 // place bubble to left of avatar
                 rich.position.set(bubbleRightX - avatarSize - rich.width, -avatarSize * 0.5);
             } else {
-                const bubbleLeftX = 280;
+                const bubbleLeftX = ENG.Scene.left() + 280;
                 if (avatar) avatar.position.set(bubbleLeftX, 0);
 
                 rich.position.set(bubbleLeftX + avatarSize, -avatarSize * 0.5);
@@ -187,7 +187,7 @@ export default class DialogueScene extends Scene {
         super.update(dt);
     }
 
-    _onNext(button){
+    _onNext(button) {
         this.signals.next.dispatch();
     }
 }
